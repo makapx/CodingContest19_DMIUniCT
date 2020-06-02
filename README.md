@@ -3,7 +3,7 @@ Raccolta di esercizi non troppo ben fatti per Programmazione II. <br>
 Trigger Warning: potreste trovare dei commenti poco carini sui miei professori ma sinceramente mi secca ricontrollare tutti gli esercizi per toglierli.<br><br>
 
 01 Fibonacci (versione iterativa) <br>
-02 Inserimento in coda                QUEUE - Solo inserimento <br>
+02 Inserimento in coda <tab>                QUEUE - Solo inserimento <br>
 03 Inserimento In pila                STACK - Solo inserimento <br>
 04 Selection Sort                     ALGORITMI DI ORDINAMENTO <br>
 05 Insertion Sort                     ALGORITMI DI ORDINAMENTO <br>
